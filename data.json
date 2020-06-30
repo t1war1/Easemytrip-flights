@@ -1,0 +1,3727 @@
+{
+    "I_D": true,
+    "h": "Delhi|Hyderabad|Tue 07-Jul-2020|1|0|0|",
+    "m": {
+        "SG": "|6165|2",
+        "AI": "|7092|9",
+        "UK": "|7093|1",
+        "I5": "|7093|4",
+        "6E": "|7094|17"
+    },
+    "a": null,
+    "j": [
+        {
+            "s": [
+                {
+                    "id": 18,
+                    "SK": "18",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "07h 05m",
+                            "CT": "DEL-SAG-HYD",
+                            "FL": [
+                                28,
+                                29
+                            ],
+                            "EID": 0,
+                            "LOV": "4h :0m",
+                            "BkKY": [
+                                "SG` 985` ``DEL`07/07/2020 11:00`SAG`07/07/2020 12:50``?SG`1078` ``SAG`07/07/2020 16:50`HYD`07/07/2020 18:05``!0`U` `SG`USAVER`2036``0`3``X!!SG`737`1``KG`20`Economy``SG`3`0`False`0``````01h 50m`USAVER`U",
+                                "SG` 985` ``DEL`07/07/2020 11:00`SAG`07/07/2020 12:50``?SG`1078` ``SAG`07/07/2020 16:50`HYD`07/07/2020 18:05``!0`U` `SG`USAVER`2036``0`3``X!!SG`DH8```KG`20`Economy``SG``0`False`0``````01h 15m`USAVER`U"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "U",
+                                "U"
+                            ],
+                            "LLOV": [
+                                "4h :0m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 1,
+                    "SID": "107,ADT:BF=5500.0000 Tax=665.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=6165.00000`665.00000`5500.0000`3500`3000`0`0`USAVER``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:665.00000,CTB=,ITB=,TBA=5500.0000,TTA=665.00000,TFA=6165.00000,CCode`",
+                    "IK": "IY8Y5uF2M9EKQh3DWSNY08U3T2Q0ldkhoZOFysq8vPE=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 5500,
+                    "TT": 665,
+                    "TF": 6165,
+                    "TTDIS": 6165,
+                    "RF": true,
+                    "CT": "DEL-SAG-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 423,
+                    "PT": 6165,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 20,
+                    "SK": "20",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "01h 55m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                32
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "1G!`32B``9`PC`1`Economy``AI`3`0`False`0``````01h 55m`VIP`V"
+                            ],
+                            "lstBagg": [
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=6329 Tax=763,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7092`763`6329`3180`3180`0`0`VIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:325`P2.:177`PSF:91`YR:170,CTB=,ITB=,TBA=6329,TTA=763,TFA=7092,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6329,
+                    "TT": 763,
+                    "TF": 7092,
+                    "TTDIS": 7092,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3180",
+                            "CH": "3180",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 93,
+                    "PT": 7092,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 21,
+                    "SK": "21",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "02h 10m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                33
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "1G!`320``9`PC`1`Economy``AI`3`0`False`0``````02h 10m`VIP`V"
+                            ],
+                            "lstBagg": [
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=6329 Tax=763,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7092`763`6329`3180`3180`0`0`VIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:325`P2.:177`PSF:91`YR:170,CTB=,ITB=,TBA=6329,TTA=763,TFA=7092,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6329,
+                    "TT": 763,
+                    "TF": 7092,
+                    "TTDIS": 7092,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3180",
+                            "CH": "3180",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 126,
+                    "PT": 7092,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 29,
+                    "SK": "29",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "02h 05m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                47
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "1G!`320``9`KG`20`Economy``UK`3`0`False`0``````02h 05m`HL1PYS`H"
+                            ],
+                            "lstBagg": [
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "H"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=6370 Tax=723,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7093`723`6370`3180`2650`0`0`HL1PYS``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:325`P2.:177`PSF:91`YR:130,CTB=,ITB=,TBA=6370,TTA=723,TFA=7093,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6370,
+                    "TT": 723,
+                    "TF": 7093,
+                    "TTDIS": 7093,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3180",
+                            "CH": "2650",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 123,
+                    "PT": 7093,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 30,
+                    "SK": "30",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "02h 00m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                48
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "INDM P01H00 81 P Default Route P EC false!0`P` `AK`P01H00`INDM``0`81``X!!I5`320```KG`20`Economy``I5`3`0`False`0``````02h 00m`P01H00`P"
+                            ],
+                            "lstBagg": [
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "P"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 10,
+                    "SID": "146,ADT:BF=6424 Tax=669,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7093`669`6424`3000`2500`0`0`P01H00``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:669,CTB=,ITB=,TBA=6424,TTA=669,TFA=7093,CCode`",
+                    "IK": "FAFnC6JVf6eB+4BL+UoQA0n5RIS9NIE8r42Fjmeo1CY=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6424,
+                    "TT": 669,
+                    "TF": 7093,
+                    "TTDIS": 7093,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 6 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 120,
+                    "PT": 7093,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 10,
+                    "SK": "10",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "02h 20m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                16
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "6E` 765` ``DEL`07/07/2020 05:10`HYD`07/07/2020 07:30``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 20m`H0IP`H"
+                            ],
+                            "lstBagg": [
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "H"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=6400.0000 Tax=694.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7094.00000`694.00000`6400.0000`3000`2500`0`0`H0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:694.00000,CTB=,ITB=,TBA=6400.0000,TTA=694.00000,TFA=7094.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6400,
+                    "TT": 694,
+                    "TF": 7094,
+                    "TTDIS": 7094,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 132,
+                    "PT": 7094,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 11,
+                    "SK": "11",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "02h 20m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                17
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "6E` 739` ``DEL`07/07/2020 10:30`HYD`07/07/2020 12:50``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 20m`H0IP`H"
+                            ],
+                            "lstBagg": [
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "H"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=6400.0000 Tax=694.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7094.00000`694.00000`6400.0000`3000`2500`0`0`H0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:694.00000,CTB=,ITB=,TBA=6400.0000,TTA=694.00000,TFA=7094.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6400,
+                    "TT": 694,
+                    "TF": 7094,
+                    "TTDIS": 7094,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 132,
+                    "PT": 7094,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 12,
+                    "SK": "12",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "02h 05m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                18
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "6E` 967` ``DEL`07/07/2020 17:15`HYD`07/07/2020 19:20``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 05m`H0IP`H"
+                            ],
+                            "lstBagg": [
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "H"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=6400.0000 Tax=694.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7094.00000`694.00000`6400.0000`3000`2500`0`0`H0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:694.00000,CTB=,ITB=,TBA=6400.0000,TTA=694.00000,TFA=7094.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6400,
+                    "TT": 694,
+                    "TF": 7094,
+                    "TTDIS": 7094,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 123,
+                    "PT": 7094,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 13,
+                    "SK": "13",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "02h 10m",
+                            "CT": "DEL-HYD",
+                            "FL": [
+                                19
+                            ],
+                            "EID": 0,
+                            "BkKY": [
+                                "6E`5055` ``DEL`07/07/2020 21:40`HYD`07/07/2020 23:50``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 10m`H0IP`H"
+                            ],
+                            "lstBagg": [
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "H"
+                            ],
+                            "LLOV": [],
+                            "stp": "0"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=6400.0000 Tax=694.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7094.00000`694.00000`6400.0000`3000`2500`0`0`H0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:694.00000,CTB=,ITB=,TBA=6400.0000,TTA=694.00000,TFA=7094.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 6400,
+                    "TT": 694,
+                    "TF": 7094,
+                    "TTDIS": 7094,
+                    "RF": true,
+                    "CT": "DEL-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 126,
+                    "PT": 7094,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 1,
+                    "SK": "1",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "07h 45m",
+                            "CT": "DEL-AMD-HYD",
+                            "FL": [
+                                0,
+                                1
+                            ],
+                            "EID": 0,
+                            "LOV": "4h :20m",
+                            "BkKY": [
+                                "6E` 432` ``DEL`07/07/2020 13:55`AMD`07/07/2020 15:25``?6E` 371` ``AMD`07/07/2020 19:45`HYD`07/07/2020 21:40``!1`R``6E`RCIP`1070``0`4``?2`R``6E`R0IP`1057``0`3``X!!6E`320`1``KG`20`Economy``6E`3`0`False`0``````01h 30m`RCIP`R",
+                                "6E` 432` ``DEL`07/07/2020 13:55`AMD`07/07/2020 15:25``?6E` 371` ``AMD`07/07/2020 19:45`HYD`07/07/2020 21:40``!1`R``6E`RCIP`1070``0`4``?2`R``6E`R0IP`1057``0`3``X!!6E`320```KG`20`Economy``6E`1`0`False`0``````01h 55m`RCIP`R"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "R",
+                                "R"
+                            ],
+                            "LLOV": [
+                                "4h :20m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=7746.0000 Tax=812.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=2900.0000`0`2900.0000`3000`2500`0`0`R0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:812.00000!,CTB=,ITB=,TBA=7746.0000,TTA=812.00000,TFA=8558.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 7746,
+                    "TT": 812,
+                    "TF": 8558,
+                    "TTDIS": 8558,
+                    "RF": true,
+                    "CT": "DEL-AMD-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 447,
+                    "PT": 8558,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 19,
+                    "SK": "19",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "13h 15m",
+                            "CT": "DEL-PAT-HYD",
+                            "FL": [
+                                30,
+                                31
+                            ],
+                            "EID": 0,
+                            "LOV": "9h :35m",
+                            "BkKY": [
+                                "SG`8721` ``DEL`07/07/2020 06:25`PAT`07/07/2020 08:05``?SG` 432` ``PAT`07/07/2020 17:40`HYD`07/07/2020 19:40``!0`J` `SG`JSAVER`2036``0`3``X!!SG`737`1``KG`20`Economy``SG`3`0`False`0``````01h 40m`JSAVER`J",
+                                "SG`8721` ``DEL`07/07/2020 06:25`PAT`07/07/2020 08:05``?SG` 432` ``PAT`07/07/2020 17:40`HYD`07/07/2020 19:40``!0`J` `SG`JSAVER`2036``0`3``X!!SG`737```KG`20`Economy``SG`1`0`False`0``````02h 00m`JSAVER`J"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "J",
+                                "J"
+                            ],
+                            "LLOV": [
+                                "9h :35m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 1,
+                    "SID": "107,ADT:BF=8000.0000 Tax=789.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=8789.00000`789.00000`8000.0000`3500`3000`0`0`JSAVER``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:789.00000,CTB=,ITB=,TBA=8000.0000,TTA=789.00000,TFA=8789.00000,CCode`",
+                    "IK": "IY8Y5uF2M9EKQh3DWSNY08U3T2Q0ldkhoZOFysq8vPE=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 8000,
+                    "TT": 789,
+                    "TF": 8789,
+                    "TTDIS": 8789,
+                    "RF": true,
+                    "CT": "DEL-PAT-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 789,
+                    "PT": 8789,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 2,
+                    "SK": "2",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "08h 15m",
+                            "CT": "DEL-AMD-HYD",
+                            "FL": [
+                                2,
+                                3
+                            ],
+                            "EID": 0,
+                            "LOV": "5h :0m",
+                            "BkKY": [
+                                "6E`2043` ``DEL`07/07/2020 09:15`AMD`07/07/2020 10:45``?6E` 383` ``AMD`07/07/2020 15:45`HYD`07/07/2020 17:30``!1`R``6E`RCIP`1070``0`4``?2`Q``6E`Q0IP`1057``0`3``X!!6E`320`1``KG`20`Economy``6E`3`0`False`0``````01h 30m`RCIP`R",
+                                "6E`2043` ``DEL`07/07/2020 09:15`AMD`07/07/2020 10:45``?6E` 383` ``AMD`07/07/2020 15:45`HYD`07/07/2020 17:30``!1`R``6E`RCIP`1070``0`4``?2`Q``6E`Q0IP`1057``0`3``X!!6E`320```KG`20`Economy``6E`1`0`False`0``````01h 45m`RCIP`R"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "R",
+                                "R"
+                            ],
+                            "LLOV": [
+                                "5h :0m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=7996.0000 Tax=826.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=3150.0000`0`3150.0000`3000`2500`0`0`Q0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:826.00000!,CTB=,ITB=,TBA=7996.0000,TTA=826.00000,TFA=8822.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 7996,
+                    "TT": 826,
+                    "TF": 8822,
+                    "TTDIS": 8822,
+                    "RF": true,
+                    "CT": "DEL-AMD-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 489,
+                    "PT": 8822,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 14,
+                    "SK": "14",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "07h 10m",
+                            "CT": "DEL-PNQ-HYD",
+                            "FL": [
+                                20,
+                                21
+                            ],
+                            "EID": 0,
+                            "LOV": "4h :10m",
+                            "BkKY": [
+                                "6E` 286` ``DEL`07/07/2020 18:00`PNQ`07/07/2020 19:55``?6E` 587` ``PNQ`07/08/2020 00:05`HYD`07/08/2020 01:10``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 55m`N0IP`N",
+                                "6E` 286` ``DEL`07/07/2020 18:00`PNQ`07/07/2020 19:55``?6E` 587` ``PNQ`07/08/2020 00:05`HYD`07/08/2020 01:10``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E``0`False`0``````01h 05m`N0IP`N"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "N",
+                                "N"
+                            ],
+                            "LLOV": [
+                                "4h :10m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=8587.0000 Tax=854.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=2187.0000`0`2187.0000`3000`2500`0`0`R0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:854.00000!,CTB=,ITB=,TBA=8587.0000,TTA=854.00000,TFA=9441.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 8587,
+                    "TT": 854,
+                    "TF": 9441,
+                    "TTDIS": 9441,
+                    "RF": true,
+                    "CT": "DEL-PNQ-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 426,
+                    "PT": 9441,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 15,
+                    "SK": "15",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "08h 40m",
+                            "CT": "DEL-PNQ-HYD",
+                            "FL": [
+                                22,
+                                23
+                            ],
+                            "EID": 0,
+                            "LOV": "5h :15m",
+                            "BkKY": [
+                                "6E` 951` ``DEL`07/07/2020 22:05`PNQ`07/08/2020 00:05``?6E` 242` ``PNQ`07/08/2020 05:20`HYD`07/08/2020 06:45``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 00m`N0IP`N",
+                                "6E` 951` ``DEL`07/07/2020 22:05`PNQ`07/08/2020 00:05``?6E` 242` ``PNQ`07/08/2020 05:20`HYD`07/08/2020 06:45``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E``0`False`0``````01h 25m`N0IP`N"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "N",
+                                "N"
+                            ],
+                            "LLOV": [
+                                "5h :15m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=8587.0000 Tax=854.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=2187.0000`0`2187.0000`3000`2500`0`0`R0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:854.00000!,CTB=,ITB=,TBA=8587.0000,TTA=854.00000,TFA=9441.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 8587,
+                    "TT": 854,
+                    "TF": 9441,
+                    "TTDIS": 9441,
+                    "RF": true,
+                    "CT": "DEL-PNQ-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 504,
+                    "PT": 9441,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 22,
+                    "SK": "22",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "27h 00m",
+                            "CT": "DEL-PNQ-HYD",
+                            "FL": [
+                                34,
+                                35
+                            ],
+                            "EID": 0,
+                            "LOV": "22h :50m",
+                            "BkKY": [
+                                "1G!`32B``9`KG`15`Economy``AI`3`0`False`0``````02h 15m`VIP`V",
+                                "1G!`ATR``5`KG`15`Economy``AI``0`False`0``ALLIANCE AIR````01h 55m`EIP9I`E"
+                            ],
+                            "lstBagg": [
+                                "KG|15",
+                                "KG|15"
+                            ],
+                            "lFC": [
+                                "V",
+                                "E"
+                            ],
+                            "LLOV": [
+                                "22h :50m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=8329 Tax=1126,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=9455`1126`8329`6360`6360`0`0`EIP9I``KG`15`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:438`P2.:177`PSF:91`YR:420,CTB=,ITB=,TBA=8329,TTA=1126,TFA=9455,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 8329,
+                    "TT": 1126,
+                    "TF": 9455,
+                    "TTDIS": 9455,
+                    "RF": true,
+                    "CT": "DEL-PNQ-HYD",
+                    "LCP": [
+                        {
+                            "CP": "6360",
+                            "CH": "6360",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 1620,
+                    "PT": 9455,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 23,
+                    "SK": "23",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "22h 25m",
+                            "CT": "DEL-BOM-HYD",
+                            "FL": [
+                                36,
+                                37
+                            ],
+                            "EID": 0,
+                            "LOV": "18h :40m",
+                            "BkKY": [
+                                "1G!`32B`2`9`PC`1`Economy``AI`3`0`False`0``````02h 15m`VIP`V",
+                                "1G!`321``9`PC`1`Economy``AI`2`0`False`0``````01h 30m`SIP`S"
+                            ],
+                            "lstBagg": [
+                                "PC|1",
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V",
+                                "S"
+                            ],
+                            "LLOV": [
+                                "18h :40m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=8659 Tax=1058,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=9717`1058`8659`6360`6360`0`0`SIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:450`P2.:177`PSF:91`YR:340,CTB=,ITB=,TBA=8659,TTA=1058,TFA=9717,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 8659,
+                    "TT": 1058,
+                    "TF": 9717,
+                    "TTDIS": 9717,
+                    "RF": true,
+                    "CT": "DEL-BOM-HYD",
+                    "LCP": [
+                        {
+                            "CP": "6360",
+                            "CH": "6360",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 1335,
+                    "PT": 9717,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 24,
+                    "SK": "24",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "25h 05m",
+                            "CT": "DEL-VTZ-HYD",
+                            "FL": [
+                                38,
+                                39
+                            ],
+                            "EID": 0,
+                            "LOV": "21h :15m",
+                            "BkKY": [
+                                "1G!`32B``9`PC`1`Economy``AI`3`0`False`0``````02h 15m`VIP`V",
+                                "1G!`319``9`PC`1`Economy``AI``0`False`0``````01h 35m`SIP`S"
+                            ],
+                            "lstBagg": [
+                                "PC|1",
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V",
+                                "S"
+                            ],
+                            "LLOV": [
+                                "21h :15m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=8659 Tax=1058,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=9717`1058`8659`6360`6360`0`0`SIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:450`P2.:177`PSF:91`YR:340,CTB=,ITB=,TBA=8659,TTA=1058,TFA=9717,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 8659,
+                    "TT": 1058,
+                    "TF": 9717,
+                    "TTDIS": 9717,
+                    "RF": true,
+                    "CT": "DEL-VTZ-HYD",
+                    "LCP": [
+                        {
+                            "CP": "6360",
+                            "CH": "6360",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 1503,
+                    "PT": 9717,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 6,
+                    "SK": "6",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "05h 00m",
+                            "CT": "DEL-VNS-HYD",
+                            "FL": [
+                                9,
+                                10
+                            ],
+                            "EID": 0,
+                            "LOV": "1h :30m",
+                            "BkKY": [
+                                "6E`6176` ``DEL`07/07/2020 15:40`VNS`07/07/2020 17:00``?6E`6913` ``VNS`07/07/2020 18:30`HYD`07/07/2020 20:40``!1`R``6E`RCIP`1070``0`2``?2`L``6E`L04AP`1057``0`1``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 20m`RCIP`R",
+                                "6E`6176` ``DEL`07/07/2020 15:40`VNS`07/07/2020 17:00``?6E`6913` ``VNS`07/07/2020 18:30`HYD`07/07/2020 20:40``!1`R``6E`RCIP`1070``0`2``?2`L``6E`L04AP`1057``0`1``X!!6E`320```KG`20`Economy``6E``0`False`0``````02h 10m`RCIP`R"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "R",
+                                "R"
+                            ],
+                            "LLOV": [
+                                "1h :30m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=9667.0000 Tax=908.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=4375.0000`0`4375.0000`3000`2500`0`0`L04AP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:908.00000!,CTB=,ITB=,TBA=9667.0000,TTA=908.00000,TFA=10575.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9667,
+                    "TT": 908,
+                    "TF": 10575,
+                    "TTDIS": 10575,
+                    "RF": true,
+                    "CT": "DEL-VNS-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 300,
+                    "PT": 10575,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 7,
+                    "SK": "7",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "11h 35m",
+                            "CT": "DEL-VNS-HYD",
+                            "FL": [
+                                11,
+                                10
+                            ],
+                            "EID": 0,
+                            "LOV": "7h :50m",
+                            "BkKY": [
+                                "6E`6613` ``DEL`07/07/2020 09:05`VNS`07/07/2020 10:40``?6E`6913` ``VNS`07/07/2020 18:30`HYD`07/07/2020 20:40``!1`R``6E`RCIP`1070``0`2``?2`L``6E`L04AP`1057``0`1``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 35m`RCIP`R",
+                                "6E`6613` ``DEL`07/07/2020 09:05`VNS`07/07/2020 10:40``?6E`6913` ``VNS`07/07/2020 18:30`HYD`07/07/2020 20:40``!1`R``6E`RCIP`1070``0`2``?2`L``6E`L04AP`1057``0`1``X!!6E`320```KG`20`Economy``6E``0`False`0``````02h 10m`RCIP`R"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "R",
+                                "R"
+                            ],
+                            "LLOV": [
+                                "7h :50m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=9667.0000 Tax=908.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=4375.0000`0`4375.0000`3000`2500`0`0`L04AP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:908.00000!,CTB=,ITB=,TBA=9667.0000,TTA=908.00000,TFA=10575.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9667,
+                    "TT": 908,
+                    "TF": 10575,
+                    "TTDIS": 10575,
+                    "RF": true,
+                    "CT": "DEL-VNS-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 681,
+                    "PT": 10575,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 31,
+                    "SK": "31",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "11h 50m",
+                            "CT": "DEL-BLR-HYD",
+                            "FL": [
+                                49,
+                                50
+                            ],
+                            "EID": 0,
+                            "LOV": "7h :45m",
+                            "BkKY": [
+                                "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5`3`0`False`0``````02h 45m`P01H00`P",
+                                "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5``0`False`0``````01h 20m`P01H00`P"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "P",
+                                "P"
+                            ],
+                            "LLOV": [
+                                "7h :45m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 10,
+                    "SID": "146,ADT:BF=9848 Tax=839,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=2424`0`2424`3000`2500`0`0```KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:839!,CTB=,ITB=,TBA=9848,TTA=839,TFA=10687,CCode`",
+                    "IK": "FAFnC6JVf6eB+4BL+UoQA0n5RIS9NIE8r42Fjmeo1CY=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9848,
+                    "TT": 839,
+                    "TF": 10687,
+                    "TTDIS": 10687,
+                    "RF": true,
+                    "CT": "DEL-BLR-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 6 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 690,
+                    "PT": 10687,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 32,
+                    "SK": "32",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "13h 00m",
+                            "CT": "DEL-BLR-HYD",
+                            "FL": [
+                                49,
+                                51
+                            ],
+                            "EID": 0,
+                            "LOV": "9h :10m",
+                            "BkKY": [
+                                "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5`3`0`False`0``````02h 45m`P01H00`P",
+                                "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5``0`False`0``````01h 05m`P01H00`P"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "P",
+                                "P"
+                            ],
+                            "LLOV": [
+                                "9h :10m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 10,
+                    "SID": "146,ADT:BF=9848 Tax=839,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=2424`0`2424`3000`2500`0`0```KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:839!,CTB=,ITB=,TBA=9848,TTA=839,TFA=10687,CCode`",
+                    "IK": "FAFnC6JVf6eB+4BL+UoQA0n5RIS9NIE8r42Fjmeo1CY=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9848,
+                    "TT": 839,
+                    "TF": 10687,
+                    "TTDIS": 10687,
+                    "RF": true,
+                    "CT": "DEL-BLR-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 6 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 780,
+                    "PT": 10687,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 33,
+                    "SK": "33",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "15h 40m",
+                            "CT": "DEL-BLR-HYD",
+                            "FL": [
+                                49,
+                                52
+                            ],
+                            "EID": 0,
+                            "LOV": "12h :0m",
+                            "BkKY": [
+                                "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5`3`0`False`0``````02h 45m`P01H00`P",
+                                "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5``0`False`0``````00h 55m`P01H00`P"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "P",
+                                "P"
+                            ],
+                            "LLOV": [
+                                "12h :0m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 10,
+                    "SID": "146,ADT:BF=9848 Tax=839,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=2424`0`2424`3000`2500`0`0```KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:839!,CTB=,ITB=,TBA=9848,TTA=839,TFA=10687,CCode`",
+                    "IK": "FAFnC6JVf6eB+4BL+UoQA0n5RIS9NIE8r42Fjmeo1CY=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9848,
+                    "TT": 839,
+                    "TF": 10687,
+                    "TTDIS": 10687,
+                    "RF": true,
+                    "CT": "DEL-BLR-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 6 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 924,
+                    "PT": 10687,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 3,
+                    "SK": "3",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "05h 20m",
+                            "CT": "DEL-LKO-HYD",
+                            "FL": [
+                                4,
+                                5
+                            ],
+                            "EID": 0,
+                            "LOV": "2h :5m",
+                            "BkKY": [
+                                "6E` 943` ``DEL`07/07/2020 12:25`LKO`07/07/2020 13:35``?6E` 844` ``LKO`07/07/2020 15:40`HYD`07/07/2020 17:45``!1`E``6E`E0IP`1057``0`155``?2`R``6E`RCIP`1070``0`4``X!!6E`320`2``KG`20`Economy``6E`3`0`False`0``````01h 10m`E0IP`E",
+                                "6E` 943` ``DEL`07/07/2020 12:25`LKO`07/07/2020 13:35``?6E` 844` ``LKO`07/07/2020 15:40`HYD`07/07/2020 17:45``!1`E``6E`E0IP`1057``0`155``?2`R``6E`RCIP`1070``0`4``X!!6E`320```KG`20`Economy``6E`2`0`False`0``````02h 05m`E0IP`E"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "E",
+                                "E"
+                            ],
+                            "LLOV": [
+                                "2h :5m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=9796.0000 Tax=916.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=4896.0000`0`4896.0000`3000`2500`0`0`RCIP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:916.00000!,CTB=,ITB=,TBA=9796.0000,TTA=916.00000,TFA=10712.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9796,
+                    "TT": 916,
+                    "TF": 10712,
+                    "TTDIS": 10712,
+                    "RF": true,
+                    "CT": "DEL-LKO-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 312,
+                    "PT": 10712,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 4,
+                    "SK": "4",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "09h 05m",
+                            "CT": "DEL-LKO-HYD",
+                            "FL": [
+                                6,
+                                5
+                            ],
+                            "EID": 0,
+                            "LOV": "5h :50m",
+                            "BkKY": [
+                                "6E` 906` ``DEL`07/07/2020 08:40`LKO`07/07/2020 09:50``?6E` 844` ``LKO`07/07/2020 15:40`HYD`07/07/2020 17:45``!1`E``6E`E0IP`1057``0`155``?2`R``6E`RCIP`1070``0`4``X!!6E`320`2``KG`20`Economy``6E`3`0`False`0``````01h 10m`E0IP`E",
+                                "6E` 906` ``DEL`07/07/2020 08:40`LKO`07/07/2020 09:50``?6E` 844` ``LKO`07/07/2020 15:40`HYD`07/07/2020 17:45``!1`E``6E`E0IP`1057``0`155``?2`R``6E`RCIP`1070``0`4``X!!6E`320```KG`20`Economy``6E`2`0`False`0``````02h 05m`E0IP`E"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "E",
+                                "E"
+                            ],
+                            "LLOV": [
+                                "5h :50m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=9796.0000 Tax=916.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=4896.0000`0`4896.0000`3000`2500`0`0`RCIP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:916.00000!,CTB=,ITB=,TBA=9796.0000,TTA=916.00000,TFA=10712.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9796,
+                    "TT": 916,
+                    "TF": 10712,
+                    "TTDIS": 10712,
+                    "RF": true,
+                    "CT": "DEL-LKO-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 543,
+                    "PT": 10712,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 17,
+                    "SK": "17",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "11h 35m",
+                            "CT": "DEL-MAA-HYD",
+                            "FL": [
+                                26,
+                                27
+                            ],
+                            "EID": 0,
+                            "LOV": "7h :15m",
+                            "BkKY": [
+                                "6E`2519` ``DEL`07/07/2020 20:45`MAA`07/07/2020 23:30``?6E` 384` ``MAA`07/08/2020 06:45`HYD`07/08/2020 08:20``!1`U``6E`U0IP`1057``0`19``?2`R``6E`R08AP`1057``0`2``X!!6E`321`1``KG`20`Economy``6E`3`0`False`0``````02h 45m`U0IP`U",
+                                "6E`2519` ``DEL`07/07/2020 20:45`MAA`07/07/2020 23:30``?6E` 384` ``MAA`07/08/2020 06:45`HYD`07/08/2020 08:20``!1`U``6E`U0IP`1057``0`19``?2`R``6E`R08AP`1057``0`2``X!!6E`321```KG`20`Economy``6E`1`0`False`0``````01h 35m`U0IP`U"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "U",
+                                "U"
+                            ],
+                            "LLOV": [
+                                "7h :15m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=9800.0000 Tax=916.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=2400.0000`0`2400.0000`3000`2500`0`0`R08AP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:916.00000!,CTB=,ITB=,TBA=9800.0000,TTA=916.00000,TFA=10716.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9800,
+                    "TT": 916,
+                    "TF": 10716,
+                    "TTDIS": 10716,
+                    "RF": true,
+                    "CT": "DEL-MAA-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 681,
+                    "PT": 10716,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 25,
+                    "SK": "25",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "19h 50m",
+                            "CT": "DEL-CCU-HYD",
+                            "FL": [
+                                40,
+                                41
+                            ],
+                            "EID": 0,
+                            "LOV": "15h :35m",
+                            "BkKY": [
+                                "1G!`32B``9`PC`1`Economy``AI`3`0`False`0``````02h 10m`VIP`V",
+                                "1G!`319``9`PC`1`Economy``AI`2`0`False`0``````02h 05m`SIP`S"
+                            ],
+                            "lstBagg": [
+                                "PC|1",
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V",
+                                "S"
+                            ],
+                            "LLOV": [
+                                "15h :35m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=9659 Tax=1108,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=10767`1108`9659`6360`6360`0`0`SIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:500`P2.:177`PSF:91`YR:340,CTB=,ITB=,TBA=9659,TTA=1108,TFA=10767,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 9659,
+                    "TT": 1108,
+                    "TF": 10767,
+                    "TTDIS": 10767,
+                    "RF": true,
+                    "CT": "DEL-CCU-HYD",
+                    "LCP": [
+                        {
+                            "CP": "6360",
+                            "CH": "6360",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 1170,
+                    "PT": 10767,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 8,
+                    "SK": "8",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "07h 05m",
+                            "CT": "DEL-VTZ-HYD",
+                            "FL": [
+                                12,
+                                13
+                            ],
+                            "EID": 0,
+                            "LOV": "3h :40m",
+                            "BkKY": [
+                                "6E`2719` ``DEL`07/07/2020 16:50`VTZ`07/07/2020 19:00``?6E` 608` ``VTZ`07/07/2020 22:40`HYD`07/07/2020 23:55``!1`J``6E`JCIP`1070``0`3``?2`K``6E`K0IP`1057``0`67``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 10m`JCIP`J",
+                                "6E`2719` ``DEL`07/07/2020 16:50`VTZ`07/07/2020 19:00``?6E` 608` ``VTZ`07/07/2020 22:40`HYD`07/07/2020 23:55``!1`J``6E`JCIP`1070``0`3``?2`K``6E`K0IP`1057``0`67``X!!6E`320```KG`20`Economy``6E``0`False`0``````01h 15m`JCIP`J"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "J",
+                                "J"
+                            ],
+                            "LLOV": [
+                                "3h :40m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=10602.0000 Tax=956.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=4900.0000`0`4900.0000`3000`2500`0`0`K0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:956.00000!,CTB=,ITB=,TBA=10602.0000,TTA=956.00000,TFA=11558.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 10602,
+                    "TT": 956,
+                    "TF": 11558,
+                    "TTDIS": 11558,
+                    "RF": true,
+                    "CT": "DEL-VTZ-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 423,
+                    "PT": 11558,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 26,
+                    "SK": "26",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "23h 00m",
+                            "CT": "DEL-AMD-BOM-HYD",
+                            "FL": [
+                                42,
+                                43,
+                                37
+                            ],
+                            "EID": 0,
+                            "LOV": "4h :15m",
+                            "BkKY": [
+                                "1G!`321`2`9`PC`1`Economy``AI`3`0`False`0``````01h 25m`VIP`V",
+                                "1G!`321`2`9`PC`1`Economy``AI`2`0`False`0``````01h 10m`SIP`S",
+                                "1G!`321``9`PC`1`Economy``AI`2`0`False`0``````01h 30m`SIP`S"
+                            ],
+                            "lstBagg": [
+                                "PC|1",
+                                "PC|1",
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V",
+                                "S",
+                                "S"
+                            ],
+                            "LLOV": [
+                                "14h :40m",
+                                "4h :15m"
+                            ],
+                            "stp": "2"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=10489 Tax=1328,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=11817`1328`10489`9540`9540`0`0`SIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:550`P2.:177`PSF:91`YR:510,CTB=,ITB=,TBA=10489,TTA=1328,TFA=11817,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 10489,
+                    "TT": 1328,
+                    "TF": 11817,
+                    "TTDIS": 11817,
+                    "RF": true,
+                    "CT": "DEL-AMD-BOM-HYD",
+                    "LCP": [
+                        {
+                            "CP": "9540",
+                            "CH": "9540",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 1380,
+                    "PT": 11817,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 5,
+                    "SK": "5",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "10h 00m",
+                            "CT": "DEL-IXR-HYD",
+                            "FL": [
+                                7,
+                                8
+                            ],
+                            "EID": 0,
+                            "LOV": "6h :10m",
+                            "BkKY": [
+                                "6E` 421` ``DEL`07/07/2020 07:55`IXR`07/07/2020 09:50``?6E` 989` ``IXR`07/07/2020 16:00`HYD`07/07/2020 17:55``!2`R``6E`RCIP`1070``0`2``X?1`J``6E`JCIP`1070``0`4``!!6E`321```KG`20`Economy``6E`3`0`False`0``````01h 55m`RCIP`R",
+                                "6E` 421` ``DEL`07/07/2020 07:55`IXR`07/07/2020 09:50``?6E` 989` ``IXR`07/07/2020 16:00`HYD`07/07/2020 17:55``!2`R``6E`RCIP`1070``0`2``X?1`J``6E`JCIP`1070``0`4``!!6E`320```KG`20`Economy``6E``0`False`0``````01h 55m`RCIP`R"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "R",
+                                "R"
+                            ],
+                            "LLOV": [
+                                "6h :10m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=11140.0000 Tax=982.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=6303.0000`0`6303.0000`3000`2500`0`0`JCIP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:982.00000!,CTB=,ITB=,TBA=11140.0000,TTA=982.00000,TFA=12122.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 11140,
+                    "TT": 982,
+                    "TF": 12122,
+                    "TTDIS": 12122,
+                    "RF": true,
+                    "CT": "DEL-IXR-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 600,
+                    "PT": 12122,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 16,
+                    "SK": "16",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "09h 00m",
+                            "CT": "DEL-BOM-HYD",
+                            "FL": [
+                                24,
+                                25
+                            ],
+                            "EID": 0,
+                            "LOV": "5h :10m",
+                            "BkKY": [
+                                "6E`5339` ``DEL`07/07/2020 11:00`BOM`07/07/2020 13:05``?6E` 199` ``BOM`07/07/2020 18:15`HYD`07/07/2020 20:00``!1`K``6E`K0IP`1057``0`110``?2`E``6E`E0IP`1057``0`123``X!!6E`321`2``KG`20`Economy``6E`3`0`False`0``````02h 05m`K0IP`K",
+                                "6E`5339` ``DEL`07/07/2020 11:00`BOM`07/07/2020 13:05``?6E` 199` ``BOM`07/07/2020 18:15`HYD`07/07/2020 20:00``!1`K``6E`K0IP`1057``0`110``?2`E``6E`E0IP`1057``0`123``X!!6E`320```KG`20`Economy``6E`2`0`False`0``````01h 45m`K0IP`K"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "K",
+                                "K"
+                            ],
+                            "LLOV": [
+                                "5h :10m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=11300.0000 Tax=990.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=4900.0000`0`4900.0000`3000`2500`0`0`E0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:990.00000!,CTB=,ITB=,TBA=11300.0000,TTA=990.00000,TFA=12290.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 11300,
+                    "TT": 990,
+                    "TF": 12290,
+                    "TTDIS": 12290,
+                    "RF": true,
+                    "CT": "DEL-BOM-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 540,
+                    "PT": 12290,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 27,
+                    "SK": "27",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "05h 00m",
+                            "CT": "DEL-CCU-HYD",
+                            "FL": [
+                                44,
+                                45
+                            ],
+                            "EID": 0,
+                            "LOV": "1h :0m",
+                            "BkKY": [
+                                "1G!`320`2`9`PC`1`Economy``AI`3`0`False`0``````01h 55m`VIP`V",
+                                "1G!`319``9`PC`1`Economy``AI`2`0`False`0``````02h 05m`VIP`V"
+                            ],
+                            "lstBagg": [
+                                "PC|1",
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V",
+                                "V"
+                            ],
+                            "LLOV": [
+                                "1h :0m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=12659 Tax=1258,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=13917`1258`12659`6360`6360`0`0`VIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:650`P2.:177`PSF:91`YR:340,CTB=,ITB=,TBA=12659,TTA=1258,TFA=13917,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 12659,
+                    "TT": 1258,
+                    "TF": 13917,
+                    "TTDIS": 13917,
+                    "RF": true,
+                    "CT": "DEL-CCU-HYD",
+                    "LCP": [
+                        {
+                            "CP": "6360",
+                            "CH": "6360",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 300,
+                    "PT": 13917,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 9,
+                    "SK": "9",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "09h 25m",
+                            "CT": "DEL-GOP-HYD",
+                            "FL": [
+                                14,
+                                15
+                            ],
+                            "EID": 0,
+                            "LOV": "5h :55m",
+                            "BkKY": [
+                                "6E` 826` ``DEL`07/07/2020 08:05`GOP`07/07/2020 09:30``?6E`6318` ``GOP`07/07/2020 15:25`HYD`07/07/2020 17:30``!2`U``6E`U0IP`1057``0`48``X?1`M``6E`M0IP`1057``0`17``!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 25m`U0IP`U",
+                                "6E` 826` ``DEL`07/07/2020 08:05`GOP`07/07/2020 09:30``?6E`6318` ``GOP`07/07/2020 15:25`HYD`07/07/2020 17:30``!2`U``6E`U0IP`1057``0`48``X?1`M``6E`M0IP`1057``0`17``!!6E`320```KG`20`Economy``6E``0`False`0``````02h 05m`U0IP`U"
+                            ],
+                            "lstBagg": [
+                                "KG|20",
+                                "KG|20"
+                            ],
+                            "lFC": [
+                                "U",
+                                "U"
+                            ],
+                            "LLOV": [
+                                "5h :55m"
+                            ],
+                            "stp": "1"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 0,
+                    "SID": "102,ADT:BF=13145.0000 Tax=1082.00000,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=7245.0000`0`7245.0000`3000`2500`0`0`M0IP``KG`20`True`0`0`0`0`,CPFV=,IPFV=,ATB=`Tax:1082.00000!,CTB=,ITB=,TBA=13145.0000,TTA=1082.00000,TFA=14227.00000,CCode`",
+                    "IK": "b7SqRwmVDL7OJQP+J0ySES9vx7BMZSMJFZdVwW+LEF0=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 13145,
+                    "TT": 1082,
+                    "TF": 14227,
+                    "TTDIS": 14227,
+                    "RF": true,
+                    "CT": "DEL-GOP-HYD",
+                    "LCP": [
+                        {
+                            "CP": "3000",
+                            "CH": "2500",
+                            "D": " Before 72 hours"
+                        },
+                        {
+                            "CP": "3500",
+                            "CH": "3000",
+                            "D": "72 hours till 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 555,
+                    "PT": 14227,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": false,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                },
+                {
+                    "id": 28,
+                    "SK": "28",
+                    "b": [
+                        {
+                            "RF": "1",
+                            "I_BF": false,
+                            "JyTm": "23h 20m",
+                            "CT": "DEL-CCU-BOM-HYD",
+                            "FL": [
+                                40,
+                                46,
+                                37
+                            ],
+                            "EID": 0,
+                            "LOV": "0h :55m",
+                            "BkKY": [
+                                "1G!`32B``9`PC`1`Economy``AI`3`0`False`0``````02h 10m`VIP`V",
+                                "1G!`32A`2`9`PC`1`Economy``AI`2`0`False`0``````02h 20m`SIP`S",
+                                "1G!`321``9`PC`1`Economy``AI`2`0`False`0``````01h 30m`SIP`S"
+                            ],
+                            "lstBagg": [
+                                "PC|1",
+                                "PC|1",
+                                "PC|1"
+                            ],
+                            "lFC": [
+                                "V",
+                                "S",
+                                "S"
+                            ],
+                            "LLOV": [
+                                "16h :25m",
+                                "0h :55m"
+                            ],
+                            "stp": "2"
+                        }
+                    ],
+                    "arrTm": 0,
+                    "l_HBT": false,
+                    "l_HB": false,
+                    "I_RT": false,
+                    "EID": 7,
+                    "SID": "114,ADT:BF=12989 Tax=1453,CHD:BF=0 Tax=0,INF:BF=0 Tax=0,DFValue=0,DFValue=0,APFV=14442`1453`12989`9540`9540`0`0`SIP``PC`1`True`0`0`0`0`,CPFV=,IPFV=,ATB=`K3.:675`P2.:177`PSF:91`YR:510,CTB=,ITB=,TBA=12989,TTA=1453,TFA=14442,CCode`",
+                    "IK": "0h4JDh8rNi7BZDG6L5Q78P9Fqnb27JiPE7m6A48QhDo=",
+                    "Rmk": "",
+                    "CC": "",
+                    "VI": "",
+                    "SeatAv": "",
+                    "I_BF": false,
+                    "I_BFAv": false,
+                    "FTpInd": "0",
+                    "AP": 12989,
+                    "TT": 1453,
+                    "TF": 14442,
+                    "TTDIS": 14442,
+                    "RF": true,
+                    "CT": "DEL-CCU-BOM-HYD",
+                    "LCP": [
+                        {
+                            "CP": "9540",
+                            "CH": "9540",
+                            "D": " Before 4 hours"
+                        }
+                    ],
+                    "IlstCanPo": null,
+                    "TJT": 1392,
+                    "PT": 14442,
+                    "DAMT": 0,
+                    "ICPS": true,
+                    "IBA": true,
+                    "RSBKFR": 0,
+                    "IsRs": false,
+                    "IMT": false
+                }
+            ]
+        }
+    ],
+    "adt": 1,
+    "chd": 0,
+    "inf": 0,
+    "I_SV": false,
+    "FareIncreased": 0,
+    "OFR": 0,
+    "I_DfIn": false,
+    "CFee": 269,
+    "I_ROT": false,
+    "I_RMP": false,
+    "HSV": "1",
+    "I_FN": false,
+    "minp": 6165,
+    "maxp": 14442,
+    "I_Ins": true,
+    "TID": "EmtCom30Jun2020205804e53f6b27a51a42a392c675eccfe5389b",
+    "C": {
+        "6E": "Indigo",
+        "SG": "SpiceJet",
+        "AI": "Air India",
+        "UK": "Vistara",
+        "I5": "AirAsia"
+    },
+    "A": {
+        "AMD": "Ahmedabad",
+        "DEL": "Delhi",
+        "HYD": "Hyderabad",
+        "LKO": "Lucknow",
+        "IXR": "Ranchi",
+        "VNS": "Varanasi",
+        "VTZ": "Vishakhapatnam",
+        "GOP": "Gorakhpur",
+        "PNQ": "Pune",
+        "BOM": "Mumbai",
+        "MAA": "Chennai",
+        "SAG": "Shirdi",
+        "PAT": "Patna",
+        "CCU": "Kolkata",
+        "BLR": "Bangalore"
+    },
+    "TD": {
+        "Tax": "Tax",
+        "K3.": "",
+        "P2.": "",
+        "PSF": "",
+        "YR": ""
+    },
+    "CC": "INR",
+    "TT": 0,
+    "SQ": [
+        {
+            "org": "DEL",
+            "dept": "HYD",
+            "deptDT": "2020-07-07T00:00:00",
+            "arrDT": null,
+            "Pnr": "",
+            "bookingid": ""
+        }
+    ],
+    "IsCloudTxtShow": true,
+    "IsCouponTxtShow": true,
+    "dctFltDtl": {
+        "0": {
+            "OG": "DEL",
+            "DT": "AMD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "13:55",
+            "ATM": "15:25",
+            "FN": " 432",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 30m",
+            "DTER": "3",
+            "ATER": "1",
+            "FCLS": "R",
+            "FlightDetailRefKey": "6E~ 432~ ~~DEL~07/07/2020 13:55~AMD~07/07/2020 15:25~~",
+            "ProviderCode": "6E` 432` ``DEL`07/07/2020 13:55`AMD`07/07/2020 15:25``?6E` 371` ``AMD`07/07/2020 19:45`HYD`07/07/2020 21:40``!1`R``6E`RCIP`1070``0`4``?2`R``6E`R0IP`1057``0`3``X!!6E`320`1``KG`20`Economy``6E`3`0`False`0``````01h 30m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "1": {
+            "OG": "AMD",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "19:45",
+            "ATM": "21:40",
+            "FN": " 371",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 55m",
+            "DTER": "1",
+            "ATER": "",
+            "FCLS": "R",
+            "LOV": "4h :20m",
+            "FlightDetailRefKey": "6E~ 371~ ~~AMD~07/07/2020 19:45~HYD~07/07/2020 21:40~~",
+            "ProviderCode": "6E` 432` ``DEL`07/07/2020 13:55`AMD`07/07/2020 15:25``?6E` 371` ``AMD`07/07/2020 19:45`HYD`07/07/2020 21:40``!1`R``6E`RCIP`1070``0`4``?2`R``6E`R0IP`1057``0`3``X!!6E`320```KG`20`Economy``6E`1`0`False`0``````01h 55m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "2": {
+            "OG": "DEL",
+            "DT": "AMD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "09:15",
+            "ATM": "10:45",
+            "FN": "2043",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 30m",
+            "DTER": "3",
+            "ATER": "1",
+            "FCLS": "R",
+            "FlightDetailRefKey": "6E~2043~ ~~DEL~07/07/2020 09:15~AMD~07/07/2020 10:45~~",
+            "ProviderCode": "6E`2043` ``DEL`07/07/2020 09:15`AMD`07/07/2020 10:45``?6E` 383` ``AMD`07/07/2020 15:45`HYD`07/07/2020 17:30``!1`R``6E`RCIP`1070``0`4``?2`Q``6E`Q0IP`1057``0`3``X!!6E`320`1``KG`20`Economy``6E`3`0`False`0``````01h 30m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "3": {
+            "OG": "AMD",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "15:45",
+            "ATM": "17:30",
+            "FN": " 383",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 45m",
+            "DTER": "1",
+            "ATER": "",
+            "FCLS": "R",
+            "LOV": "5h :0m",
+            "FlightDetailRefKey": "6E~ 383~ ~~AMD~07/07/2020 15:45~HYD~07/07/2020 17:30~~",
+            "ProviderCode": "6E`2043` ``DEL`07/07/2020 09:15`AMD`07/07/2020 10:45``?6E` 383` ``AMD`07/07/2020 15:45`HYD`07/07/2020 17:30``!1`R``6E`RCIP`1070``0`4``?2`Q``6E`Q0IP`1057``0`3``X!!6E`320```KG`20`Economy``6E`1`0`False`0``````01h 45m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "4": {
+            "OG": "DEL",
+            "DT": "LKO",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "12:25",
+            "ATM": "13:35",
+            "FN": " 943",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 10m",
+            "DTER": "3",
+            "ATER": "2",
+            "FCLS": "E",
+            "FlightDetailRefKey": "6E~ 943~ ~~DEL~07/07/2020 12:25~LKO~07/07/2020 13:35~~",
+            "ProviderCode": "6E` 943` ``DEL`07/07/2020 12:25`LKO`07/07/2020 13:35``?6E` 844` ``LKO`07/07/2020 15:40`HYD`07/07/2020 17:45``!1`E``6E`E0IP`1057``0`155``?2`R``6E`RCIP`1070``0`4``X!!6E`320`2``KG`20`Economy``6E`3`0`False`0``````01h 10m`E0IP`E",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "5": {
+            "OG": "LKO",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "15:40",
+            "ATM": "17:45",
+            "FN": " 844",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 05m",
+            "DTER": "2",
+            "ATER": "",
+            "FCLS": "E",
+            "LOV": "2h :5m",
+            "FlightDetailRefKey": "6E~ 844~ ~~LKO~07/07/2020 15:40~HYD~07/07/2020 17:45~~",
+            "ProviderCode": "6E` 943` ``DEL`07/07/2020 12:25`LKO`07/07/2020 13:35``?6E` 844` ``LKO`07/07/2020 15:40`HYD`07/07/2020 17:45``!1`E``6E`E0IP`1057``0`155``?2`R``6E`RCIP`1070``0`4``X!!6E`320```KG`20`Economy``6E`2`0`False`0``````02h 05m`E0IP`E",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "6": {
+            "OG": "DEL",
+            "DT": "LKO",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "08:40",
+            "ATM": "09:50",
+            "FN": " 906",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 10m",
+            "DTER": "3",
+            "ATER": "2",
+            "FCLS": "E",
+            "FlightDetailRefKey": "6E~ 906~ ~~DEL~07/07/2020 08:40~LKO~07/07/2020 09:50~~",
+            "ProviderCode": "6E` 906` ``DEL`07/07/2020 08:40`LKO`07/07/2020 09:50``?6E` 844` ``LKO`07/07/2020 15:40`HYD`07/07/2020 17:45``!1`E``6E`E0IP`1057``0`155``?2`R``6E`RCIP`1070``0`4``X!!6E`320`2``KG`20`Economy``6E`3`0`False`0``````01h 10m`E0IP`E",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "7": {
+            "OG": "DEL",
+            "DT": "IXR",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "07:55",
+            "ATM": "09:50",
+            "FN": " 421",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 55m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "R",
+            "FlightDetailRefKey": "6E~ 421~ ~~DEL~07/07/2020 07:55~IXR~07/07/2020 09:50~~",
+            "ProviderCode": "6E` 421` ``DEL`07/07/2020 07:55`IXR`07/07/2020 09:50``?6E` 989` ``IXR`07/07/2020 16:00`HYD`07/07/2020 17:55``!2`R``6E`RCIP`1070``0`2``X?1`J``6E`JCIP`1070``0`4``!!6E`321```KG`20`Economy``6E`3`0`False`0``````01h 55m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "321",
+            "SA": null,
+            "GRP": "0"
+        },
+        "8": {
+            "OG": "IXR",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "16:00",
+            "ATM": "17:55",
+            "FN": " 989",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 55m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "R",
+            "LOV": "6h :10m",
+            "FlightDetailRefKey": "6E~ 989~ ~~IXR~07/07/2020 16:00~HYD~07/07/2020 17:55~~",
+            "ProviderCode": "6E` 421` ``DEL`07/07/2020 07:55`IXR`07/07/2020 09:50``?6E` 989` ``IXR`07/07/2020 16:00`HYD`07/07/2020 17:55``!2`R``6E`RCIP`1070``0`2``X?1`J``6E`JCIP`1070``0`4``!!6E`320```KG`20`Economy``6E``0`False`0``````01h 55m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "9": {
+            "OG": "DEL",
+            "DT": "VNS",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "15:40",
+            "ATM": "17:00",
+            "FN": "6176",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 20m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "R",
+            "FlightDetailRefKey": "6E~6176~ ~~DEL~07/07/2020 15:40~VNS~07/07/2020 17:00~~",
+            "ProviderCode": "6E`6176` ``DEL`07/07/2020 15:40`VNS`07/07/2020 17:00``?6E`6913` ``VNS`07/07/2020 18:30`HYD`07/07/2020 20:40``!1`R``6E`RCIP`1070``0`2``?2`L``6E`L04AP`1057``0`1``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 20m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "10": {
+            "OG": "VNS",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "18:30",
+            "ATM": "20:40",
+            "FN": "6913",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 10m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "R",
+            "LOV": "1h :30m",
+            "FlightDetailRefKey": "6E~6913~ ~~VNS~07/07/2020 18:30~HYD~07/07/2020 20:40~~",
+            "ProviderCode": "6E`6176` ``DEL`07/07/2020 15:40`VNS`07/07/2020 17:00``?6E`6913` ``VNS`07/07/2020 18:30`HYD`07/07/2020 20:40``!1`R``6E`RCIP`1070``0`2``?2`L``6E`L04AP`1057``0`1``X!!6E`320```KG`20`Economy``6E``0`False`0``````02h 10m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "11": {
+            "OG": "DEL",
+            "DT": "VNS",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "09:05",
+            "ATM": "10:40",
+            "FN": "6613",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 35m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "R",
+            "FlightDetailRefKey": "6E~6613~ ~~DEL~07/07/2020 09:05~VNS~07/07/2020 10:40~~",
+            "ProviderCode": "6E`6613` ``DEL`07/07/2020 09:05`VNS`07/07/2020 10:40``?6E`6913` ``VNS`07/07/2020 18:30`HYD`07/07/2020 20:40``!1`R``6E`RCIP`1070``0`2``?2`L``6E`L04AP`1057``0`1``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 35m`RCIP`R",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "12": {
+            "OG": "DEL",
+            "DT": "VTZ",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "16:50",
+            "ATM": "19:00",
+            "FN": "2719",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 10m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "J",
+            "FlightDetailRefKey": "6E~2719~ ~~DEL~07/07/2020 16:50~VTZ~07/07/2020 19:00~~",
+            "ProviderCode": "6E`2719` ``DEL`07/07/2020 16:50`VTZ`07/07/2020 19:00``?6E` 608` ``VTZ`07/07/2020 22:40`HYD`07/07/2020 23:55``!1`J``6E`JCIP`1070``0`3``?2`K``6E`K0IP`1057``0`67``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 10m`JCIP`J",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "13": {
+            "OG": "VTZ",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "22:40",
+            "ATM": "23:55",
+            "FN": " 608",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 15m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "J",
+            "LOV": "3h :40m",
+            "FlightDetailRefKey": "6E~ 608~ ~~VTZ~07/07/2020 22:40~HYD~07/07/2020 23:55~~",
+            "ProviderCode": "6E`2719` ``DEL`07/07/2020 16:50`VTZ`07/07/2020 19:00``?6E` 608` ``VTZ`07/07/2020 22:40`HYD`07/07/2020 23:55``!1`J``6E`JCIP`1070``0`3``?2`K``6E`K0IP`1057``0`67``X!!6E`320```KG`20`Economy``6E``0`False`0``````01h 15m`JCIP`J",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "14": {
+            "OG": "DEL",
+            "DT": "GOP",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "08:05",
+            "ATM": "09:30",
+            "FN": " 826",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 25m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "U",
+            "FlightDetailRefKey": "6E~ 826~ ~~DEL~07/07/2020 08:05~GOP~07/07/2020 09:30~~",
+            "ProviderCode": "6E` 826` ``DEL`07/07/2020 08:05`GOP`07/07/2020 09:30``?6E`6318` ``GOP`07/07/2020 15:25`HYD`07/07/2020 17:30``!2`U``6E`U0IP`1057``0`48``X?1`M``6E`M0IP`1057``0`17``!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 25m`U0IP`U",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "15": {
+            "OG": "GOP",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "15:25",
+            "ATM": "17:30",
+            "FN": "6318",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 05m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "U",
+            "LOV": "5h :55m",
+            "FlightDetailRefKey": "6E~6318~ ~~GOP~07/07/2020 15:25~HYD~07/07/2020 17:30~~",
+            "ProviderCode": "6E` 826` ``DEL`07/07/2020 08:05`GOP`07/07/2020 09:30``?6E`6318` ``GOP`07/07/2020 15:25`HYD`07/07/2020 17:30``!2`U``6E`U0IP`1057``0`48``X?1`M``6E`M0IP`1057``0`17``!!6E`320```KG`20`Economy``6E``0`False`0``````02h 05m`U0IP`U",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "16": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "05:10",
+            "ATM": "07:30",
+            "FN": " 765",
+            "AC": "6E",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "02h 20m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "H",
+            "FlightDetailRefKey": "6E~ 765~ ~~DEL~07/07/2020 05:10~HYD~07/07/2020 07:30~~",
+            "ProviderCode": "6E` 765` ``DEL`07/07/2020 05:10`HYD`07/07/2020 07:30``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 20m`H0IP`H",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "17": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "10:30",
+            "ATM": "12:50",
+            "FN": " 739",
+            "AC": "6E",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "02h 20m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "H",
+            "FlightDetailRefKey": "6E~ 739~ ~~DEL~07/07/2020 10:30~HYD~07/07/2020 12:50~~",
+            "ProviderCode": "6E` 739` ``DEL`07/07/2020 10:30`HYD`07/07/2020 12:50``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 20m`H0IP`H",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "18": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "17:15",
+            "ATM": "19:20",
+            "FN": " 967",
+            "AC": "6E",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "02h 05m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "H",
+            "FlightDetailRefKey": "6E~ 967~ ~~DEL~07/07/2020 17:15~HYD~07/07/2020 19:20~~",
+            "ProviderCode": "6E` 967` ``DEL`07/07/2020 17:15`HYD`07/07/2020 19:20``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 05m`H0IP`H",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "19": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "21:40",
+            "ATM": "23:50",
+            "FN": "5055",
+            "AC": "6E",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "02h 10m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "H",
+            "FlightDetailRefKey": "6E~5055~ ~~DEL~07/07/2020 21:40~HYD~07/07/2020 23:50~~",
+            "ProviderCode": "6E`5055` ``DEL`07/07/2020 21:40`HYD`07/07/2020 23:50``!0`H` `6E`H0IP`1057``0`93``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 10m`H0IP`H",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "20": {
+            "OG": "DEL",
+            "DT": "PNQ",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "18:00",
+            "ATM": "19:55",
+            "FN": " 286",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 55m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "N",
+            "FlightDetailRefKey": "6E~ 286~ ~~DEL~07/07/2020 18:00~PNQ~07/07/2020 19:55~~",
+            "ProviderCode": "6E` 286` ``DEL`07/07/2020 18:00`PNQ`07/07/2020 19:55``?6E` 587` ``PNQ`07/08/2020 00:05`HYD`07/08/2020 01:10``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````01h 55m`N0IP`N",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "21": {
+            "OG": "PNQ",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "00:05",
+            "ATM": "01:10",
+            "FN": " 587",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 05m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "N",
+            "LOV": "4h :10m",
+            "FlightDetailRefKey": "6E~ 587~ ~~PNQ~07/08/2020 00:05~HYD~07/08/2020 01:10~~",
+            "ProviderCode": "6E` 286` ``DEL`07/07/2020 18:00`PNQ`07/07/2020 19:55``?6E` 587` ``PNQ`07/08/2020 00:05`HYD`07/08/2020 01:10``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E``0`False`0``````01h 05m`N0IP`N",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "22": {
+            "OG": "DEL",
+            "DT": "PNQ",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "22:05",
+            "ATM": "00:05",
+            "FN": " 951",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 00m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "N",
+            "FlightDetailRefKey": "6E~ 951~ ~~DEL~07/07/2020 22:05~PNQ~07/08/2020 00:05~~",
+            "ProviderCode": "6E` 951` ``DEL`07/07/2020 22:05`PNQ`07/08/2020 00:05``?6E` 242` ``PNQ`07/08/2020 05:20`HYD`07/08/2020 06:45``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E`3`0`False`0``````02h 00m`N0IP`N",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "23": {
+            "OG": "PNQ",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "05:20",
+            "ATM": "06:45",
+            "FN": " 242",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 25m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "N",
+            "LOV": "5h :15m",
+            "FlightDetailRefKey": "6E~ 242~ ~~PNQ~07/08/2020 05:20~HYD~07/08/2020 06:45~~",
+            "ProviderCode": "6E` 951` ``DEL`07/07/2020 22:05`PNQ`07/08/2020 00:05``?6E` 242` ``PNQ`07/08/2020 05:20`HYD`07/08/2020 06:45``!1`N``6E`N0IP`1057``0`5``?2`R``6E`R0IP`1057``0`8``X!!6E`320```KG`20`Economy``6E``0`False`0``````01h 25m`N0IP`N",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "24": {
+            "OG": "DEL",
+            "DT": "BOM",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "11:00",
+            "ATM": "13:05",
+            "FN": "5339",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 05m",
+            "DTER": "3",
+            "ATER": "2",
+            "FCLS": "K",
+            "FlightDetailRefKey": "6E~5339~ ~~DEL~07/07/2020 11:00~BOM~07/07/2020 13:05~~",
+            "ProviderCode": "6E`5339` ``DEL`07/07/2020 11:00`BOM`07/07/2020 13:05``?6E` 199` ``BOM`07/07/2020 18:15`HYD`07/07/2020 20:00``!1`K``6E`K0IP`1057``0`110``?2`E``6E`E0IP`1057``0`123``X!!6E`321`2``KG`20`Economy``6E`3`0`False`0``````02h 05m`K0IP`K",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "321",
+            "SA": null,
+            "GRP": "0"
+        },
+        "25": {
+            "OG": "BOM",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "18:15",
+            "ATM": "20:00",
+            "FN": " 199",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 45m",
+            "DTER": "2",
+            "ATER": "",
+            "FCLS": "K",
+            "LOV": "5h :10m",
+            "FlightDetailRefKey": "6E~ 199~ ~~BOM~07/07/2020 18:15~HYD~07/07/2020 20:00~~",
+            "ProviderCode": "6E`5339` ``DEL`07/07/2020 11:00`BOM`07/07/2020 13:05``?6E` 199` ``BOM`07/07/2020 18:15`HYD`07/07/2020 20:00``!1`K``6E`K0IP`1057``0`110``?2`E``6E`E0IP`1057``0`123``X!!6E`320```KG`20`Economy``6E`2`0`False`0``````01h 45m`K0IP`K",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "26": {
+            "OG": "DEL",
+            "DT": "MAA",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "20:45",
+            "ATM": "23:30",
+            "FN": "2519",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 45m",
+            "DTER": "3",
+            "ATER": "1",
+            "FCLS": "U",
+            "FlightDetailRefKey": "6E~2519~ ~~DEL~07/07/2020 20:45~MAA~07/07/2020 23:30~~",
+            "ProviderCode": "6E`2519` ``DEL`07/07/2020 20:45`MAA`07/07/2020 23:30``?6E` 384` ``MAA`07/08/2020 06:45`HYD`07/08/2020 08:20``!1`U``6E`U0IP`1057``0`19``?2`R``6E`R08AP`1057``0`2``X!!6E`321`1``KG`20`Economy``6E`3`0`False`0``````02h 45m`U0IP`U",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "321",
+            "SA": null,
+            "GRP": "0"
+        },
+        "27": {
+            "OG": "MAA",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "06:45",
+            "ATM": "08:20",
+            "FN": " 384",
+            "AC": "6E",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 35m",
+            "DTER": "1",
+            "ATER": "",
+            "FCLS": "U",
+            "LOV": "7h :15m",
+            "FlightDetailRefKey": "6E~ 384~ ~~MAA~07/08/2020 06:45~HYD~07/08/2020 08:20~~",
+            "ProviderCode": "6E`2519` ``DEL`07/07/2020 20:45`MAA`07/07/2020 23:30``?6E` 384` ``MAA`07/08/2020 06:45`HYD`07/08/2020 08:20``!1`U``6E`U0IP`1057``0`19``?2`R``6E`R08AP`1057``0`2``X!!6E`321```KG`20`Economy``6E`1`0`False`0``````01h 35m`U0IP`U",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "321",
+            "SA": null,
+            "GRP": "0"
+        },
+        "28": {
+            "OG": "DEL",
+            "DT": "SAG",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "11:00",
+            "ATM": "12:50",
+            "FN": " 985",
+            "AC": "SG",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 50m",
+            "DTER": "3",
+            "ATER": "1",
+            "FCLS": "U",
+            "FlightDetailRefKey": "SG~ 985~ ~~DEL~07/07/2020 11:00~SAG~07/07/2020 12:50~~",
+            "ProviderCode": "SG` 985` ``DEL`07/07/2020 11:00`SAG`07/07/2020 12:50``?SG`1078` ``SAG`07/07/2020 16:50`HYD`07/07/2020 18:05``!0`U` `SG`USAVER`2036``0`3``X!!SG`737`1``KG`20`Economy``SG`3`0`False`0``````01h 50m`USAVER`U",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "737",
+            "SA": null,
+            "GRP": "0"
+        },
+        "29": {
+            "OG": "SAG",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "16:50",
+            "ATM": "18:05",
+            "FN": "1078",
+            "AC": "SG",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 15m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "U",
+            "LOV": "4h :0m",
+            "FlightDetailRefKey": "SG~1078~ ~~SAG~07/07/2020 16:50~HYD~07/07/2020 18:05~~",
+            "ProviderCode": "SG` 985` ``DEL`07/07/2020 11:00`SAG`07/07/2020 12:50``?SG`1078` ``SAG`07/07/2020 16:50`HYD`07/07/2020 18:05``!0`U` `SG`USAVER`2036``0`3``X!!SG`DH8```KG`20`Economy``SG``0`False`0``````01h 15m`USAVER`U",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "DH8",
+            "SA": null,
+            "GRP": "0"
+        },
+        "30": {
+            "OG": "DEL",
+            "DT": "PAT",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "06:25",
+            "ATM": "08:05",
+            "FN": "8721",
+            "AC": "SG",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 40m",
+            "DTER": "3",
+            "ATER": "1",
+            "FCLS": "J",
+            "FlightDetailRefKey": "SG~8721~ ~~DEL~07/07/2020 06:25~PAT~07/07/2020 08:05~~",
+            "ProviderCode": "SG`8721` ``DEL`07/07/2020 06:25`PAT`07/07/2020 08:05``?SG` 432` ``PAT`07/07/2020 17:40`HYD`07/07/2020 19:40``!0`J` `SG`JSAVER`2036``0`3``X!!SG`737`1``KG`20`Economy``SG`3`0`False`0``````01h 40m`JSAVER`J",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "737",
+            "SA": null,
+            "GRP": "0"
+        },
+        "31": {
+            "OG": "PAT",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "17:40",
+            "ATM": "19:40",
+            "FN": " 432",
+            "AC": "SG",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 00m",
+            "DTER": "1",
+            "ATER": "",
+            "FCLS": "J",
+            "LOV": "9h :35m",
+            "FlightDetailRefKey": "SG~ 432~ ~~PAT~07/07/2020 17:40~HYD~07/07/2020 19:40~~",
+            "ProviderCode": "SG`8721` ``DEL`07/07/2020 06:25`PAT`07/07/2020 08:05``?SG` 432` ``PAT`07/07/2020 17:40`HYD`07/07/2020 19:40``!0`J` `SG`JSAVER`2036``0`3``X!!SG`737```KG`20`Economy``SG`1`0`False`0``````02h 00m`JSAVER`J",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "737",
+            "SA": null,
+            "GRP": "0"
+        },
+        "32": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "07:15",
+            "ATM": "09:10",
+            "FN": "560",
+            "AC": "AI",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "01h 55m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`32B``9`PC`1`Economy``AI`3`0`False`0``````01h 55m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "32B",
+            "SA": null,
+            "GRP": "0"
+        },
+        "33": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "16:15",
+            "ATM": "18:25",
+            "FN": "544",
+            "AC": "AI",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "02h 10m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`320``9`PC`1`Economy``AI`3`0`False`0``````02h 10m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "34": {
+            "OG": "DEL",
+            "DT": "PNQ",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "14:45",
+            "ATM": "17:00",
+            "FN": "849",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 15m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`32B``9`KG`15`Economy``AI`3`0`False`0``````02h 15m`VIP`V",
+            "BU": "KG",
+            "BW": "15",
+            "ET": "32B",
+            "SA": null,
+            "GRP": "0"
+        },
+        "35": {
+            "OG": "PNQ",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "15:50",
+            "ATM": "17:45",
+            "FN": "9868",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 55m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "E",
+            "LOV": "22h :50m",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`ATR``5`KG`15`Economy``AI``0`False`0``ALLIANCE AIR````01h 55m`EIP9I`E",
+            "OPB": "ALLIANCE AIR",
+            "BU": "KG",
+            "BW": "15",
+            "ET": "ATR",
+            "SA": null,
+            "GRP": "0"
+        },
+        "36": {
+            "OG": "DEL",
+            "DT": "BOM",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "17:15",
+            "ATM": "19:30",
+            "FN": "537",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 15m",
+            "DTER": "3",
+            "ATER": "2",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`32B`2`9`PC`1`Economy``AI`3`0`False`0``````02h 15m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "32B",
+            "SA": null,
+            "GRP": "0"
+        },
+        "37": {
+            "OG": "BOM",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "14:10",
+            "ATM": "15:40",
+            "FN": "617",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 30m",
+            "DTER": "2",
+            "ATER": "",
+            "FCLS": "S",
+            "LOV": "18h :40m",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`321``9`PC`1`Economy``AI`2`0`False`0``````01h 30m`SIP`S",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "321",
+            "SA": null,
+            "GRP": "0"
+        },
+        "38": {
+            "OG": "DEL",
+            "DT": "VTZ",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "17:00",
+            "ATM": "19:15",
+            "FN": "451",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 15m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`32B``9`PC`1`Economy``AI`3`0`False`0``````02h 15m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "32B",
+            "SA": null,
+            "GRP": "0"
+        },
+        "39": {
+            "OG": "VTZ",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "16:30",
+            "ATM": "18:05",
+            "FN": "522",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 35m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "S",
+            "LOV": "21h :15m",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`319``9`PC`1`Economy``AI``0`False`0``````01h 35m`SIP`S",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "319",
+            "SA": null,
+            "GRP": "0"
+        },
+        "40": {
+            "OG": "DEL",
+            "DT": "CCU",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "16:20",
+            "ATM": "18:30",
+            "FN": "535",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 10m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`32B``9`PC`1`Economy``AI`3`0`False`0``````02h 10m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "32B",
+            "SA": null,
+            "GRP": "0"
+        },
+        "41": {
+            "OG": "CCU",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "10:05",
+            "ATM": "12:10",
+            "FN": "526",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 05m",
+            "DTER": "2",
+            "ATER": "",
+            "FCLS": "S",
+            "LOV": "15h :35m",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`319``9`PC`1`Economy``AI`2`0`False`0``````02h 05m`SIP`S",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "319",
+            "SA": null,
+            "GRP": "0"
+        },
+        "42": {
+            "OG": "DEL",
+            "DT": "AMD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "16:40",
+            "ATM": "18:05",
+            "FN": "531",
+            "AC": "AI",
+            "STP": "2",
+            "CB": "Economy",
+            "DUR": "01h 25m",
+            "DTER": "3",
+            "ATER": "2",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`321`2`9`PC`1`Economy``AI`3`0`False`0``````01h 25m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "321",
+            "SA": null,
+            "GRP": "0"
+        },
+        "43": {
+            "OG": "AMD",
+            "DT": "BOM",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "08:45",
+            "ATM": "09:55",
+            "FN": "614",
+            "AC": "AI",
+            "STP": "2",
+            "CB": "Economy",
+            "DUR": "01h 10m",
+            "DTER": "2",
+            "ATER": "2",
+            "FCLS": "S",
+            "LOV": "14h :40m",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`321`2`9`PC`1`Economy``AI`2`0`False`0``````01h 10m`SIP`S",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "321",
+            "SA": null,
+            "GRP": "0"
+        },
+        "44": {
+            "OG": "DEL",
+            "DT": "CCU",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "07:10",
+            "ATM": "09:05",
+            "FN": "401",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 55m",
+            "DTER": "3",
+            "ATER": "2",
+            "FCLS": "V",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`320`2`9`PC`1`Economy``AI`3`0`False`0``````01h 55m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "45": {
+            "OG": "CCU",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "10:05",
+            "ATM": "12:10",
+            "FN": "526",
+            "AC": "AI",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 05m",
+            "DTER": "2",
+            "ATER": "",
+            "FCLS": "V",
+            "LOV": "1h :0m",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`319``9`PC`1`Economy``AI`2`0`False`0``````02h 05m`VIP`V",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "319",
+            "SA": null,
+            "GRP": "0"
+        },
+        "46": {
+            "OG": "CCU",
+            "DT": "BOM",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "10:55",
+            "ATM": "13:15",
+            "FN": "676",
+            "AC": "AI",
+            "STP": "2",
+            "CB": "Economy",
+            "DUR": "02h 20m",
+            "DTER": "2",
+            "ATER": "2",
+            "FCLS": "S",
+            "LOV": "16h :25m",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`32A`2`9`PC`1`Economy``AI`2`0`False`0``````02h 20m`SIP`S",
+            "BU": "PC",
+            "BW": "1",
+            "ET": "32A",
+            "SA": null,
+            "GRP": "0"
+        },
+        "47": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "07:05",
+            "ATM": "09:10",
+            "FN": "829",
+            "AC": "UK",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "02h 05m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "H",
+            "FlightDetailRefKey": "",
+            "ProviderCode": "1G!`320``9`KG`20`Economy``UK`3`0`False`0``````02h 05m`HL1PYS`H",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "48": {
+            "OG": "DEL",
+            "DT": "HYD",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "19:55",
+            "ATM": "21:55",
+            "FN": " 757",
+            "AC": "I5",
+            "STP": "0",
+            "CB": "Economy",
+            "DUR": "02h 00m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "P",
+            "FlightDetailRefKey": "I5~ 757~ ~~DEL~07/07/2020 19:55~HYD~07/07/2020 21:55~~",
+            "ProviderCode": "INDM P01H00 81 P Default Route P EC false!0`P` `AK`P01H00`INDM``0`81``X!!I5`320```KG`20`Economy``I5`3`0`False`0``````02h 00m`P01H00`P",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "49": {
+            "OG": "DEL",
+            "DT": "BLR",
+            "DDT": "Tue-07Jul2020",
+            "ADT": "Tue-07Jul2020",
+            "DTM": "20:45",
+            "ATM": "23:30",
+            "FN": " 721",
+            "AC": "I5",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "02h 45m",
+            "DTER": "3",
+            "ATER": "",
+            "FCLS": "P",
+            "FlightDetailRefKey": "I5~ 721~ ~~DEL~07/07/2020 20:45~BLR~07/07/2020 23:30~~",
+            "ProviderCode": "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5`3`0`False`0``````02h 45m`P01H00`P",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "50": {
+            "OG": "BLR",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "07:15",
+            "ATM": "08:35",
+            "FN": "1576",
+            "AC": "I5",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 20m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "P",
+            "LOV": "7h :45m",
+            "FlightDetailRefKey": "I5~1576~ ~~BLR~07/08/2020 07:15~HYD~07/08/2020 08:35~~",
+            "ProviderCode": "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5``0`False`0``````01h 20m`P01H00`P",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "51": {
+            "OG": "BLR",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "08:40",
+            "ATM": "09:45",
+            "FN": "1528",
+            "AC": "I5",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "01h 05m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "P",
+            "LOV": "9h :10m",
+            "FlightDetailRefKey": "I5~1528~ ~~BLR~07/08/2020 08:40~HYD~07/08/2020 09:45~~",
+            "ProviderCode": "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5``0`False`0``````01h 05m`P01H00`P",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        },
+        "52": {
+            "OG": "BLR",
+            "DT": "HYD",
+            "DDT": "Wed-08Jul2020",
+            "ADT": "Wed-08Jul2020",
+            "DTM": "11:30",
+            "ATM": "12:25",
+            "FN": "1620",
+            "AC": "I5",
+            "STP": "1",
+            "CB": "Economy",
+            "DUR": "00h 55m",
+            "DTER": "",
+            "ATER": "",
+            "FCLS": "P",
+            "LOV": "12h :0m",
+            "FlightDetailRefKey": "I5~1620~ ~~BLR~07/08/2020 11:30~HYD~07/08/2020 12:25~~",
+            "ProviderCode": "INDM P01H00 35 P Default Governing P EC false`INDM K01H08 2 K Default Sector K EP false!2`P``AK`P01H00`INDM``0`35``X?1`K``AK`K01H08`INDM``0`2``!!I5`320```KG`20`Economy``I5``0`False`0``````00h 55m`P01H00`P",
+            "BU": "KG",
+            "BW": "20",
+            "ET": "320",
+            "SA": null,
+            "GRP": "0"
+        }
+    },
+    "fleg": [],
+    "lovm": {
+        "SAG": "1|6165",
+        "AMD": "3|8558",
+        "PAT": "1|8789",
+        "PNQ": "3|9441",
+        "BOM": "4|9717",
+        "VTZ": "2|9717",
+        "VNS": "2|10575",
+        "BLR": "3|10687",
+        "LKO": "2|10712",
+        "MAA": "1|10716",
+        "CCU": "3|10767",
+        "IXR": "1|12122",
+        "GOP": "1|14227"
+    },
+    "EF": "0",
+    "Cnty": {
+        "DEL": "India",
+        "AMD": "India",
+        "HYD": "India",
+        "LKO": "India",
+        "IXR": "India",
+        "VNS": "India",
+        "VTZ": "India",
+        "GOP": "India",
+        "PNQ": "India",
+        "BOM": "India",
+        "MAA": "India",
+        "SAG": "India",
+        "PAT": "India",
+        "CCU": "India",
+        "BLR": "India"
+    }
+}

@@ -1,0 +1,5 @@
+{
+	"DB":{
+		"URI":"mongodb+srv://gaurav:codetrippers@cluster0.8o7ht.mongodb.net/test?retryWrites=true&w=majority"
+	}
+}
