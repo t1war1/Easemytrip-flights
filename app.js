@@ -67,6 +67,7 @@ function showRelevantInfo(data) {
         obj['arrive'] = data.dctFltDtl[data.j[0].s[flight].b[0].FL.length-1].ATM;
         obj['previousPrice'] = data.j[0].s[flight].TF;
         obj['finalPrice'] = data.j[0].s[flight].TTDIS;
+        obj['discount']=data.j[0].s[flight].TF-data.j[0].s[flight].TTDIS;
         obj['couponCode'] = data.j[0].s[flight].CC;
         obj['couponName'] = data.j[0].s[flight].CpNt;
         obj['Meal'] = data.j[0].s[flight].Rmk;
